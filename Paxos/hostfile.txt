@@ -1,0 +1,2 @@
+xinu17.cs.purdue.edu
+xinu19.cs.purdue.edu
